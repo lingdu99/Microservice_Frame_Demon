@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Microservice_Frame_Demon.iml" filepath="$PROJECT_DIR$/Microservice_Frame_Demon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybatisPlus/MybatisPlus.iml" filepath="$PROJECT_DIR$/MybatisPlus/MybatisPlus.iml" />
     </modules>
   </component>
 </project>
