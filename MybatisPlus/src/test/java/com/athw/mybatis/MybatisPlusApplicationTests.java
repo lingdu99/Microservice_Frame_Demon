@@ -33,4 +33,14 @@ public class MybatisPlusApplicationTests {
         System.out.println(result);
         System.out.println(user);
     }
+
+    @Test
+    public void testUpdateById(){
+        User user = new User();
+        user.setId(1L);
+        user.setAge(28);
+
+        int result = userMapper.updateById(user);
+        System.out.println(result);
+    }
 }
